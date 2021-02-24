@@ -9,7 +9,7 @@
 
 前請先找一個網路不花錢的地方，再打開網站，因為一開就會花掉 40MB 呦 XD
 
-試玩網址： https://bit.ly/3aQybWo
+試玩網址： http://bit.ly/2ZHVFH0
 
 
 ## 基本介紹
