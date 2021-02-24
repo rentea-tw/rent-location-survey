@@ -33,6 +33,7 @@ kepler.gl 是 Uber 做的地圖視覺話工具，可以快速彙整（aggregate�
 ## 資料來源
 
 1. Ubike 站點、捷運路線：[政府開放資料平台](https://data.gov.tw/)
+   - 捷運路線格式轉換，由超好用的 Ronny 的 [sheethub](https://sheethub.com/convert/convert) 協助！
 2. 雙北咖啡店：[Cafe Nomad API](https://cafenomad.tw/developers/docs/v1.2)
 3. 租屋資訊：[開放台灣租屋資料](https://rentalhouse.g0v.ddio.io)
 
